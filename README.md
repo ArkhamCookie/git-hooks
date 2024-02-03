@@ -20,3 +20,4 @@ My collection of [git hooks](https://git-scm.com/docs/githooks) and git hook rel
 ## Tools
 
 - [pre-commit](https://pre-commit.com/)
+- [Velociraptor](https://velociraptor.run/)
