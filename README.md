@@ -5,6 +5,7 @@ My collection of [git hooks](https://git-scm.com/docs/githooks) and git hook rel
 ## Hooks
 
 - [git-good-commit](https://github.com/tommarshall/git-good-commit)
+  — A git hook to help you write good commit messages.
 
 ## Resources
 
