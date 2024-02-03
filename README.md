@@ -15,3 +15,4 @@ My collection of [git hooks](https://git-scm.com/docs/githooks) and git hook rel
 ### Articles
 
 - [The missing Git hooks documentation](https://longair.net/blog/2011/04/09/missing-git-hooks-documentation/)
+- [Using Direnv to Automatically Manage Git Hooks](https://knpw.rs/blog/direnv-git-hooks)
